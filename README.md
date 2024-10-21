@@ -11,6 +11,10 @@ Na segunda sprint foi realizado uma interface de edição de usuário cadastrado
 Segue vídeo das telas criadas para inserção de login, e realização de cadastro:
 
 
+https://github.com/user-attachments/assets/66d55957-6504-4998-a075-cf63451c7d53
+
+
+
 
 
 ### Métricas Do time 📊
